@@ -28,21 +28,21 @@ random_numbers3 <- readRDS(
 )
 ```
 
-# Random numbers 1
+# Distribution 1
 
 ```{r, random-numbers1-histogram}
 #| fig.cap = "First set of random numbers"
 hist(random_numbers1)
 ```
 
-# Random numbers 2
+# Distribution 2
 
 ```{r, random-numbers2-histogram}
 #| fig.cap = "Second set of random numbers"
 hist(random_numbers2)
 ```
 
-# Random numbers 3
+# Distribution 3
 
 ```{r, random-numbers3-histogram}
 #| fig.cap = "Third set of random numbers"
